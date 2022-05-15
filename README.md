@@ -1,4 +1,6 @@
-<img style="float:right; width:10em;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
+<div style="display:flex; width:max-width; heigh: 10em; align-item:center; justify-content:center;">
+<img src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
+</div>
 
 ## Hi there :wave: 
 
