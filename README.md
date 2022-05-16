@@ -7,7 +7,7 @@ learning JavaScript
 - 	:mailbox: How to reach me: [@lucianogermani](https://twitter.com/LucianoGermani) :it:
 - :zap: Fun fact: I :heartpulse: riding my bike :motorcycle:
 
-<img style="width:15em;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
+<img style="width:18em;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
 
 
 
