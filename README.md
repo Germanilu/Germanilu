@@ -3,7 +3,7 @@
 
 - :rocket: I'm currently working on something cool :wink: 
 - :books: I'm currently 
-learning JavaScript
+learning React
 - 	:mailbox: How to reach me: [@lucianogermani](https://twitter.com/LucianoGermani) :it:
 - :zap: Fun fact: I :heartpulse: riding my motorcycle :motorcycle:
 
