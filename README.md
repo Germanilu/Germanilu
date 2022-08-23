@@ -3,7 +3,7 @@
 
 - :rocket: I'm currently working on something cool :wink: 
 - :books: I'm currently 
-learning React
+Working on a Web App for a Veterinary clinic.
 - 	:mailbox: How to reach me: [@lucianogermani](https://twitter.com/LucianoGermani) :it:
 - :zap: Fun fact: I :heartpulse: riding my motorcycle :motorcycle:
 
