@@ -2,8 +2,7 @@
 ## Hi there :wave: 
 
 - :rocket: I'm currently working on something cool :wink: 
-- :books: I'm currently 
-Working on a Web App for a Veterinary clinic with React & MongoDB
+- :books: I'm learning TypeScript! 
 - 	:mailbox: How to reach me: [@lucianogermani](https://twitter.com/LucianoGermani) :it:
 - :zap: Fun fact: I :heartpulse: riding my motorcycle :motorcycle:
 
