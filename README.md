@@ -2,7 +2,7 @@
 ## Hi there :wave: 
 
 - :rocket: I'm currently working on something cool :wink: 
-- :books: I'm learning TypeScript! 
+- :books: I'm currently learning TypeScript! 
 - 	:mailbox: How to reach me: [@lucianogermani](https://twitter.com/LucianoGermani) :it:
 - :zap: Fun fact: I :heartpulse: riding my motorcycle :motorcycle:
 
