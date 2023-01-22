@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I 💗 riding my motorcycle 🏍️**
 
+<img style="width:18em;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luciano-germani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-germani" height="30" width="40" /></a>
@@ -24,13 +26,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germanilu&show_icons=true&theme=dark&locale=en&layout=compact" alt="germanilu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=germanilu&show_icons=true&locale=en" alt="germanilu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germanilu&" alt="germanilu" /></p>
 
 
 
-<img style="width:18em;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47wozf5rb1sikc3u9sh4b4e8kru7gh59lyzh7i7t7w&rid=giphy.gif&ct=g">
+
 
 
 
