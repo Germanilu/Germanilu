@@ -15,8 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luciano-germani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-germani" height="30" width="40" /></a>
-<a href="https://instagram.com/lucianogermani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucianogermani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luciano-germani" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="luciano-germani linkedin" height="40" width="40" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61567616643088" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="ilcodicedelgusto facebook" height="40" width="40" />
+</a>
+<a href="https://x.com/LucianoGermani" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="twitter" height="40" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +37,9 @@
   </a> 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  alt="Sass" width="60" height="60"/>           
+  </a> 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"   alt="Redux" width="60" height="60"/>           
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="Php" width="60" height="60"/>           
@@ -49,11 +59,6 @@
   <a href="https://www.adobe.com/es/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"   alt="Canva" width="60" height="60"/>           
   </a> 
-
-       
-
-          
-  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germanilu&show_icons=true&theme=dark&locale=en&layout=compact" alt="germanilu" /></p>
